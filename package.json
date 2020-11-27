@@ -1,0 +1,16 @@
+{
+	"name": "@dyc5828/prettier-config",
+	"version": "1.0.0",
+	"description": "My Prettier Config",
+	"author": "Daniel Chen",
+	"license": "MIT",
+	"homepage": "https://github.com/dyc5828/prettier-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dyc5828/prettier-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/dyc5828/prettier-config/issues"
+	},
+	"main": ".prettierrc.json"
+}
